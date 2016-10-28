@@ -1,1 +1,1 @@
-# minesweeper
+# Minesweeper JS/CSS
